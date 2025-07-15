@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.txt
+train/images/
+valid/images/
+test/images/
+train/labels/
+valid/labels/
+test/labels/
